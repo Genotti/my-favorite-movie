@@ -1,0 +1,46 @@
+
+body {
+    font-family: Arial;
+    background-color: #e0f2e9; 
+    color: #04b642;
+}
+header {
+    background-color: #2f5d3f; 
+    color: white;
+}
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+section {
+    text-align: center;
+    max-width: 800px;
+    background-color: rgb(199, 255, 218);
+
+}
+
+h2 {
+    text-align: center;
+    margin: 0;
+    color: #1d4030; 
+    margin-bottom: 10px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+video {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
